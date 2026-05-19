@@ -1,18 +1,20 @@
-# 👋 Hi, I'm Irfan csh
+# 👋 Hi, I'm Irfan Ramzan
 
 🎯 **Cybersecurity Intern @ CodeAlpha**  
-🛡️ SOC Analyst & Network Security Enthusiast  
-☁️ Currently learning **Cloud Security** for future specialization  
+🛡️ SOC Analyst | Network Security | Threat Detection  
+☁️ Cloud Security Learner (Security Monitoring & Cloud Defense)
 
 🔗 LinkedIn: https://www.linkedin.com/in/irfan-csh-406926339
 
 ---
 
 ## 🚀 About Me
-I am a passionate cybersecurity learner focusing on **SOC Operations, Network Security, and Threat Detection**.  
-I enjoy working with real-world tools and labs to strengthen my skills in monitoring, analyzing, and responding to security incidents.
+I am a cybersecurity enthusiast focused on **SOC operations, network security, and security monitoring**.  
+I enjoy working with real-world tools and hands-on projects to analyze traffic, detect threats, and understand attacker techniques.
 
-My goal is to grow as a **SOC Analyst** and later specialize in **Cloud Security**.
+My interests align strongly with **Security Operations (SOC)** and **Cloud Security**, with a focus on building skills in **log analysis, incident response, SIEM monitoring, and network visibility**. I aim to develop a strong foundation in defensive security while expanding into cloud-based security environments.
+
+I believe in continuous learning through labs, certifications, and practical cybersecurity projects.
 
 ---
 
