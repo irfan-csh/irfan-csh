@@ -44,10 +44,12 @@ https://github.com/irfan-csh/CodeAlpha_BasicNetworkSniffer
 - Threat Detection Basics
 - Incident Response Fundamentals
 - Endpoint Security Concepts
+- IDS (suricata) deployment and custom rules
 
 ### 🔹 Tools & Technologies
 - Wireshark
 - Nmap
+- suricata
 - Hydra
 - Burp Suite
 - Wazuh (SIEM)
@@ -66,6 +68,7 @@ https://github.com/irfan-csh/CodeAlpha_BasicNetworkSniffer
 - **Cisco Ethical Hacker**
 - **Cisco Endpoint Security**
 - **Cisco Cyber Threat Management**
+- **Cisco Cyber security introduction** 
 
 ---
 
