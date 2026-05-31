@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Irfan Ramzan
+# 👋 Hi, I'm Irfan csh
 
 🎯 **Cybersecurity Intern @ CodeAlpha**  
 🛡️ SOC Analyst | Network Security | Threat Detection  
@@ -135,8 +135,6 @@ I believe in continuous learning through labs, certifications, and practical cyb
 - Cisco Cyber Threat Management
 - Cisco Introduction to Cybersecurity
 - Cisco Networking Basics
-- Microsoft SQL Server with AI (Udemy)
-- Basics of Python – Cambridge International Qualification (UK)
 
 ---
 
