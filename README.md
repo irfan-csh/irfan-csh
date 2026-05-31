@@ -9,6 +9,7 @@
 ---
 
 ## 🚀 About Me
+
 I am a cybersecurity enthusiast focused on **SOC operations, network security, and security monitoring**.  
 I enjoy working with real-world tools and hands-on projects to analyze traffic, detect threats, and understand attacker techniques.
 
@@ -18,72 +19,154 @@ I believe in continuous learning through labs, certifications, and practical cyb
 
 ---
 
-## 🔥 Featured Project
+## 🛠️ Technical Skills
 
-### 🕵️ CodeAlpha - Basic Network Sniffer v2.0
-A professional CLI-based network sniffer built using **Python + Scapy** to capture and analyze live network traffic.
+### Security Tools
+- Wireshark
+- Suricata
+- Nmap
+- Burp Suite
+- Hydra
+- Bettercap
+- Git & GitHub
+- VirtualBox
 
-**Key Features:**
-- Interface Selection (eth0 / wlan0 / lo)
-- Protocol Filtering (TCP / UDP / ICMP / ALL)
-- IP & Port Filtering
-- Summary & Detailed Packet Analysis Mode
-- Optional Log Saving
-- Packet Capture Statistics Report
+### Security Monitoring & Analysis
+- Network Traffic Analysis
+- Packet Inspection
+- PCAP Analysis
+- Log Analysis
+- Alert Monitoring
+- Threat Hunting
+- IOC Identification
+- Incident Investigation
+- Incident Response Fundamentals
 
-🔗 **Repository Link:**  
-https://github.com/irfan-csh/CodeAlpha_BasicNetworkSniffer
+### IDS / IPS
+- Suricata Deployment
+- Custom Rule Creation
+- Rule Tuning
+- Alert Analysis
+
+### Networking
+- TCP/IP
+- UDP
+- DNS
+- DHCP
+- Host Discovery
+- Port Scanning
+- Service Enumeration
+- Network Reconnaissance
+
+### Operating Systems
+- Windows Administration
+- Windows Event Viewer
+- Windows Firewall
+- Remote Desktop Protocol (RDP)
+- Ubuntu Linux
+- Kali Linux
+- Linux Command Line
+- User & Permission Management
+- Linux Log Analysis
+
+### Programming & Scripting
+- Python (Basic)
+- Bash (Basic)
+
+### OSINT & Threat Intelligence
+- Google Dorking
+- WHOIS
+- Shodan
+- VirusTotal
 
 ---
 
-## 🛠 Technical Skills
+## 💼 Professional Experience
 
-### 🔹 SOC & Security Skills
-- Network Traffic Analysis
-- Packet Sniffing & Filtering
-- Threat Detection Basics
-- Incident Response Fundamentals
-- Endpoint Security Concepts
-- IDS (suricata) deployment and custom rules
+### Cybersecurity Intern | CodeAlpha
+- Performed network traffic monitoring and packet analysis using Wireshark and Suricata.
+- Conducted threat hunting, IOC identification, and PCAP investigations.
+- Created and tuned Suricata detection rules for threat detection.
+- Performed security testing and network reconnaissance using Nmap.
+- Managed cybersecurity lab environments using Kali Linux, Ubuntu, and Windows.
 
-### 🔹 Tools & Technologies
-- Wireshark
-- Nmap
-- suricata
-- Hydra
-- Burp Suite
-- Wazuh (SIEM)
-- Bettercap
-- Linux & Windows Administration
+---
 
-### 🔹 Scripting & Platforms
-- Python (Cybersecurity Automation)
-- Git & GitHub
-- Kali Linux
+## 🚀 Featured Projects
+
+### 🔹 Advanced Network Packet Sniffer
+**Technologies:** Python, Scapy
+
+- Developed a custom Python-based network packet sniffer for real-time network traffic monitoring and security analysis.
+- Implemented protocol, IP, and port-based filtering capabilities.
+- Performed deep packet inspection and payload analysis.
+- Generated traffic statistics and logging for network investigations.
+
+### 🔹 Network Intrusion Detection & Response System
+**Technologies:** Suricata, Ubuntu, Kali Linux
+
+- Built a Suricata-based Network Intrusion Detection System (NIDS).
+- Created custom detection rules for ICMP, SSH, HTTP, Telnet, and port scanning activities.
+- Simulated attacks using Nmap to validate detections.
+- Implemented automated IP blocking with iptables to create a basic IDS/IPS solution.
+
+### 🔹 SSH Brute Force PCAP Investigation
+**Technologies:** Wireshark, Hydra, Kali Linux
+
+- Simulated and analyzed an SSH brute force attack in a controlled lab environment.
+- Performed PCAP analysis using Wireshark.
+- Identified attacker and victim systems and extracted Indicators of Compromise (IOCs).
+- Documented findings in a professional SOC-style incident investigation report.
+
+---
+
+## 🎓 Education
+
+- **M.Phil** – Riphah International University, Islamabad
+- **Master of Science (MSc)** – University of Agriculture Faisalabad
 
 ---
 
 ## 📜 Certifications
-- **Microsoft SC-900** (Security, Compliance & Identity Fundamentals)
-- **Cisco Ethical Hacker**
-- **Cisco Endpoint Security**
-- **Cisco Cyber Threat Management**
-- **Cisco Cyber security introduction** 
+
+- Microsoft SC-900: Security, Compliance, and Identity Fundamentals
+- Cisco Certified Ethical Hacker
+- Cisco Endpoint Security
+- Cisco Cyber Threat Management
+- Cisco Introduction to Cybersecurity
+- Cisco Networking Basics
+- Microsoft SQL Server with AI (Udemy)
+- Basics of Python – Cambridge International Qualification (UK)
 
 ---
 
-## 📌 Current Focus
-- SOC Analyst Skills & Monitoring (Wazuh / Log Analysis)
-- Network Security & Packet Analysis
-- Python Automation for Security Tasks
-- Cloud Security Fundamentals (Learning & Practicing)
+## 🎯 Current Learning Focus
+
+- SOC Operations
+- Threat Hunting
+- Incident Response
+- Detection Engineering
+- Security Monitoring
+- Cloud Security Fundamentals
+- Log Analysis
 
 ---
 
-## 🌐 Connect With Me
-📌 LinkedIn: https://www.linkedin.com/in/irfan-csh-406926339  
-📧 Email: irfancsh360@gmail.com
+## 🧪 Home Lab Environment
+
+- Kali Linux
+- Ubuntu Linux
+- Windows Virtual Machines
+- VirtualBox
+- Attack Simulation & Detection Testing
+- Network Traffic Analysis Labs
 
 ---
 
-⭐ *Always learning and building cybersecurity projects to improve practical skills.*
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/irfan-csh-406926339
+
+---
+
+⭐ Passionate about cybersecurity, continuous learning, and building practical security solutions through hands-on projects and laboratory environments.
