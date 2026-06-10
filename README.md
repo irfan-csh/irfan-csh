@@ -283,6 +283,3 @@ I continue to build my expertise through hands-on labs, practical tools, and sec
 
 ---
 
-## Final Note
-
-This repository represents my journey in cybersecurity through practical, hands-on work across **network security, SIEM, intrusion detection, PCAP investigation, and incident response**. It is a growing portfolio that reflects both internship experience and continued home lab development.
