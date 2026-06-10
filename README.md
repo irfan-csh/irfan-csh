@@ -1,285 +1,419 @@
-# 👋 Irfan CSH | Cybersecurity Portfolio
+# 👋 Hi, I'm Irfan CSH
 
-**Cybersecurity Intern @ CodeAlpha**
-**SOC Analyst | Network Security | Threat Detection | SIEM | Incident Response**
-**Cloud Security Learner | Hands-on Lab Builder | Security Monitoring Enthusiast**
+<p align="center">
 
----
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-SOC%20Analyst-blue)
+![SIEM](https://img.shields.io/badge/SIEM-Wazuh-green)
+![Network Security](https://img.shields.io/badge/Network-Security-orange)
+![Threat Detection](https://img.shields.io/badge/Threat-Detection-red)
+![Incident Response](https://img.shields.io/badge/Incident-Response-purple)
+![Python](https://img.shields.io/badge/Python-Scripting-yellow)
+![Linux](https://img.shields.io/badge/Linux-Administration-black)
 
-## About This Repository
+</p>
 
-This repository serves as my **main cybersecurity portfolio** and brings together the practical projects I completed during my internship and home lab practice. It reflects hands-on experience in **network security, traffic analysis, endpoint monitoring, SIEM investigation, intrusion detection, automated response, and security awareness training**.
-
-Each project was designed to simulate real-world security workflows and strengthen the core skills required in a **Security Operations Center (SOC)** environment.
-
----
-
-## Featured Projects
-
-### 1) Basic Network Sniffer
-
-**Technologies:** Python, Scapy, Linux
-
-A CLI-based network sniffer developed for live packet capture and traffic inspection.
-
-**Key highlights:**
-
-* Interface selection
-* TCP, UDP, and ICMP filtering
-* IP and port-based filtering
-* Summary and detailed output modes
-* Optional logging
-* Traffic statistics reporting
-
-**Value gained:**
-
-* Packet analysis fundamentals
-* Network visibility and monitoring
-* Python scripting for security tasks
+<p align="center">
+🎯 Cybersecurity Intern @ CodeAlpha <br>
+🛡️ SOC Analyst | Threat Detection | Security Monitoring <br>
+☁️ Cloud Security Learner | Detection Engineering Enthusiast
+</p>
 
 ---
 
-### 2) Phishing Awareness Training
+# 🚀 About Me
 
-**Format:** PowerPoint + PDF
+I am a cybersecurity enthusiast passionate about **Security Operations Center (SOC) activities, SIEM monitoring, threat detection, incident response, and network security**.
 
-A cybersecurity awareness training module focused on phishing recognition and social engineering defense.
+My focus is on building practical defensive security skills through hands-on projects involving:
 
-**Key highlights:**
+- Security Monitoring
+- Threat Hunting
+- Incident Investigation
+- Network Traffic Analysis
+- Intrusion Detection Systems
+- Endpoint Security Monitoring
+- Detection Engineering
+- SIEM Administration
 
-* Phishing concepts and detection techniques
-* Social engineering awareness
-* Real-world examples
-* Interactive quiz section
-
-**Value gained:**
-
-* Security awareness communication
-* Threat recognition and user education
-* Presentation design for non-technical audiences
+This repository serves as my cybersecurity portfolio, showcasing projects completed during my internship and personal home lab research.
 
 ---
 
-### 3) Network Intrusion Detection & Automated Response System
+# 📚 Table of Contents
 
-**Technologies:** Suricata, Ubuntu Linux, Kali Linux, Nmap, Bash, iptables, VirtualBox
-
-A network intrusion detection project built to monitor traffic, detect suspicious activity, and trigger automated response actions.
-
-**Key highlights:**
-
-* Real-time traffic monitoring
-* Custom Suricata rules
-* ICMP ping detection
-* SYN port scan detection
-* SSH, HTTP, and Telnet monitoring
-* Live alert monitoring
-* Automated IP blocking with iptables
-* IDS-to-IPS style response behavior
-
-**Value gained:**
-
-* IDS rule understanding and tuning
-* Threat detection workflow
-* Basic incident containment
-* Linux-based security operations
+- [Featured Projects](#-featured-projects)
+- [Technical Skills](#-technical-skills)
+- [Internship Experience](#-internship-experience)
+- [Certifications](#-certifications)
+- [Education](#-education)
+- [Home Lab Environment](#-home-lab-environment)
+- [Current Learning Focus](#-current-learning-focus)
+- [Connect With Me](#-connect-with-me)
 
 ---
 
-### 4) PCAP Investigation Using Wireshark
-
-**Tools:** Wireshark, Kali Linux, PCAP analysis
-
-A practical packet investigation project focused on analyzing captured traffic to identify attack patterns and indicators of compromise.
-
-**Key highlights:**
-
-* PCAP inspection and traffic review
-* Source/destination identification
-* Protocol and session analysis
-* IOC extraction
-* SOC-style investigation reporting
-
-**Value gained:**
-
-* Deep packet analysis
-* Incident investigation methodology
-* Evidence-based reporting
-* Network forensics fundamentals
+# 🚀 Featured Projects
 
 ---
 
-### 5) Endpoint Detection, Monitoring & Incident Response using Wazuh
+## 🐍 Basic Network Sniffer
 
-**Technologies:** Wazuh, Ubuntu Server, Windows Endpoint, Wazuh Agent, Windows Event Logs, FIM
+### Technologies
+Python • Scapy • Linux
 
-A home lab SIEM project built to monitor endpoint security events, investigate alerts, and practice incident response through Wazuh.
+### Overview
+Developed a professional CLI-based packet sniffer capable of capturing and analyzing live network traffic.
 
-**Key highlights:**
+### Key Features
+✅ Interface Selection
 
-* Windows endpoint registration and monitoring
-* Failed and successful login analysis
-* User account creation detection
-* Privilege escalation detection
-* File Integrity Monitoring (FIM)
-* Alert triage and investigation
-* Basic incident response actions
+✅ TCP / UDP / ICMP Filtering
 
-**Value gained:**
+✅ IP & Port Filtering
 
-* SIEM deployment and monitoring
-* Windows event analysis
-* Endpoint security investigation
-* SOC workflow practice
+✅ Packet Logging
 
----
+✅ Detailed Packet Inspection
 
-### 6) Wazuh SSH Brute Force Detection & Automated Response
+✅ Traffic Statistics
 
-**Technologies:** Wazuh, Ubuntu, Kali Linux, OpenSSH, iptables
-
-A SIEM detection engineering project designed to identify SSH brute-force activity and automatically block the attacker’s IP address.
-
-**Key highlights:**
-
-* SSH authentication monitoring
-* Repeated failed login correlation
-* Custom Wazuh detection logic
-* MITRE ATT&CK mapping
-* Active Response with firewall-drop
-* Automated IP blocking
-
-**Value gained:**
-
-* Detection engineering
-* Correlation-based alerting
-* Threat classification with MITRE ATT&CK
-* Automated containment
+### Skills Demonstrated
+- Packet Analysis
+- Network Monitoring
+- Python Scripting
+- Traffic Inspection
 
 ---
 
-## Technical Skills Demonstrated
+## 🎣 Phishing Awareness Training
 
-### Security Monitoring & Analysis
+### Technologies
+PowerPoint • PDF
 
-* Network traffic analysis
-* Packet inspection
-* PCAP investigation
-* Log analysis
-* Alert monitoring
-* Threat hunting
-* IOC identification
-* Incident investigation
+### Overview
+Designed a cybersecurity awareness training module focused on phishing attacks and social engineering threats.
 
-### SIEM / IDS / Detection Engineering
+### Key Features
+✅ Phishing Detection Techniques
 
-* Wazuh administration
-* Suricata deployment
-* Custom detection rules
-* Alert correlation
-* Rule tuning
-* Active Response
-* MITRE ATT&CK mapping
+✅ Social Engineering Awareness
 
-### Networking & Systems
+✅ Real-World Attack Examples
 
-* TCP/IP, UDP, DNS, DHCP
-* Host discovery
-* Port scanning and service enumeration
-* Linux administration
-* Windows administration
-* Firewall and endpoint monitoring
+✅ Interactive Quiz
 
-### Programming & Scripting
-
-* Python
-* Bash scripting
-
-### Tools & Platforms
-
-* Wireshark
-* Wazuh
-* Suricata
-* Scapy
-* Nmap
-* Kali Linux
-* Ubuntu Linux
-* Windows VMs
-* VirtualBox
-* iptables
-* Burp Suite
-* Hydra
-* Bettercap
-* Git & GitHub
-
-### OSINT & Threat Intelligence
-
-* Google Dorking
-* WHOIS
-* Shodan
-* VirusTotal
+### Skills Demonstrated
+- Security Awareness
+- User Education
+- Security Communication
+- Risk Reduction
 
 ---
 
-## Internship Learning Outcomes
+## 🛡️ Network Intrusion Detection & Automated Response System
 
-Through these projects, I strengthened practical skills in:
+### Technologies
+Suricata • Ubuntu • Kali Linux • Nmap • Bash • iptables
 
-* SOC monitoring and alert triage
-* Network and endpoint security analysis
-* Threat detection and incident response
-* SIEM-based investigation workflows
-* IDS rule creation and validation
-* Packet-level troubleshooting and analysis
-* Security awareness and reporting
-* Automated containment and response techniques
+### Overview
+Built a Network Intrusion Detection System (NIDS) capable of monitoring network traffic and automatically blocking malicious activity.
 
----
+### Key Features
+✅ Real-Time Traffic Monitoring
 
-## Home Lab Environment
+✅ Custom Suricata Rules
 
-My lab environment includes:
+✅ ICMP Detection
 
-* Kali Linux
-* Ubuntu Linux
-* Windows virtual machines
-* VirtualBox
-* Wazuh Docker deployment
-* Suricata-based IDS testing
-* Controlled attack simulation
-* Network traffic analysis workflows
+✅ SYN Scan Detection
 
----
+✅ SSH Monitoring
 
-## Professional Summary
+✅ HTTP Monitoring
 
-I am a cybersecurity enthusiast with a strong interest in **SOC operations, network security, SIEM monitoring, and incident response**. My projects focus on real-world defensive security tasks such as traffic inspection, endpoint monitoring, alert investigation, detection engineering, and attack simulation.
+✅ Telnet Detection
 
-I continue to build my expertise through hands-on labs, practical tools, and security-focused learning experiences that align with the daily responsibilities of a SOC analyst.
+✅ Automated IP Blocking
+
+### Skills Demonstrated
+- Intrusion Detection
+- Alert Analysis
+- Linux Security
+- Incident Response
+- Network Monitoring
 
 ---
 
-## Education
+## 🔍 PCAP Investigation using Wireshark
 
-* **M.Phil** – Riphah International University, Islamabad
-* **MSc** – University of Agriculture, Faisalabad
+### Technologies
+Wireshark • Kali Linux
+
+### Overview
+Performed packet capture investigations to identify attack patterns and extract Indicators of Compromise (IOCs).
+
+### Key Features
+✅ Packet Inspection
+
+✅ Traffic Analysis
+
+✅ IOC Extraction
+
+✅ Session Analysis
+
+✅ Incident Documentation
+
+### Skills Demonstrated
+- Network Forensics
+- PCAP Analysis
+- Threat Investigation
+- Evidence Collection
 
 ---
 
-## Certifications
+## 📊 Endpoint Detection, Monitoring & Incident Response using Wazuh
 
-* Microsoft SC-900: Security, Compliance, and Identity Fundamentals
-* Cisco Certified Ethical Hacker
-* Cisco Endpoint Security
-* Cisco Cyber Threat Management
-* Cisco Introduction to Cybersecurity
-* Cisco Networking Basics
+### Technologies
+Wazuh • Ubuntu Server • Windows 11 • Wazuh Agent
+
+### Overview
+Implemented a SIEM solution for endpoint security monitoring and incident investigation.
+
+### Key Features
+✅ Windows Endpoint Monitoring
+
+✅ Failed Login Detection
+
+✅ Successful Login Monitoring
+
+✅ User Creation Detection
+
+✅ Privilege Escalation Detection
+
+✅ File Integrity Monitoring (FIM)
+
+✅ Alert Triage & Investigation
+
+### Skills Demonstrated
+- SIEM Administration
+- Event Analysis
+- Alert Investigation
+- Endpoint Security
+- Incident Response
 
 ---
 
-## Connect With Me
+## 🚨 Wazuh SSH Brute Force Detection & Automated Response
 
-* LinkedIn: [https://www.linkedin.com/in/irfan-csh-406926339](https://www.linkedin.com/in/irfan-csh-406926339)
+### Technologies
+Wazuh • Ubuntu • Kali Linux • OpenSSH • iptables
+
+### Overview
+Developed a custom SIEM detection use case to identify SSH brute-force attacks and automatically contain threats.
+
+### Key Features
+✅ Custom Detection Rules
+
+✅ Event Correlation
+
+✅ SSH Brute Force Detection
+
+✅ MITRE ATT&CK Mapping
+
+✅ Active Response
+
+✅ Automatic IP Blocking
+
+### Skills Demonstrated
+- Detection Engineering
+- Threat Detection
+- Incident Response
+- MITRE ATT&CK
+- Security Monitoring
 
 ---
 
+# 🛠 Technical Skills
+
+## SIEM & Security Monitoring
+
+- Wazuh Administration
+- Security Monitoring
+- Alert Triage
+- Event Correlation
+- Incident Investigation
+- Detection Engineering
+
+## Network Security
+
+- Network Traffic Analysis
+- Packet Inspection
+- PCAP Investigation
+- IDS/IPS Monitoring
+- IOC Identification
+- Threat Hunting
+
+## IDS / IPS
+
+- Suricata Deployment
+- Custom Rule Creation
+- Rule Tuning
+- Alert Analysis
+
+## Networking
+
+- TCP/IP
+- UDP
+- DNS
+- DHCP
+- Port Scanning
+- Service Enumeration
+- Network Reconnaissance
+
+## Operating Systems
+
+### Windows
+- Event Viewer
+- User Management
+- Windows Firewall
+- Endpoint Monitoring
+
+### Linux
+- Ubuntu Administration
+- Kali Linux
+- User & Permission Management
+- Log Analysis
+- Firewall Management
+
+## Programming & Scripting
+
+- Python
+- Bash
+
+## Security Tools
+
+- Wireshark
+- Wazuh
+- Suricata
+- Scapy
+- Nmap
+- Burp Suite
+- Hydra
+- Bettercap
+- Git & GitHub
+- VirtualBox
+
+## OSINT & Threat Intelligence
+
+- VirusTotal
+- Shodan
+- WHOIS
+- Google Dorking
+
+---
+
+# 💼 Internship Experience
+
+## Cybersecurity Intern | CodeAlpha
+
+### Responsibilities
+
+- Network traffic monitoring and analysis
+- Packet inspection using Wireshark
+- Threat hunting and IOC identification
+- PCAP investigations
+- Suricata deployment and monitoring
+- Detection rule creation and tuning
+- Security testing using Nmap
+- Cybersecurity awareness development
+
+### Skills Developed
+
+- Threat Detection
+- Network Security Monitoring
+- Incident Analysis
+- IDS Administration
+- Security Reporting
+
+---
+
+# 📜 Certifications
+
+🏆 Microsoft SC-900: Security, Compliance, and Identity Fundamentals
+
+🏆 Cisco Certified Ethical Hacker
+
+🏆 Cisco Endpoint Security
+
+🏆 Cisco Cyber Threat Management
+
+🏆 Cisco Introduction to Cybersecurity
+
+🏆 Cisco Networking Basics
+
+---
+
+# 🎓 Education
+
+### M.Phil
+Riphah International University, Islamabad
+
+### MSc
+University of Agriculture Faisalabad
+
+---
+
+# 🧪 Home Lab Environment
+
+- Kali Linux
+- Ubuntu Linux
+- Windows Virtual Machines
+- VirtualBox
+- Wazuh SIEM
+- Suricata IDS
+- Attack Simulation
+- Network Traffic Analysis
+- Threat Detection Testing
+
+---
+
+# 🎯 Current Learning Focus
+
+- SOC Operations
+- Threat Hunting
+- Incident Response
+- Detection Engineering
+- Security Monitoring
+- Cloud Security
+- Log Analysis
+- Blue Team Operations
+
+---
+
+# 📫 Connect With Me
+
+### LinkedIn
+
+www.linkedin.com/in/irfan-csh-406926339
+
+---
+
+# ⭐ Portfolio Mission
+
+This portfolio demonstrates practical experience in:
+
+🛡️ Security Monitoring
+
+🔍 Threat Detection
+
+📊 SIEM Operations
+
+🚨 Incident Response
+
+🌐 Network Security
+
+🖥️ Endpoint Monitoring
+
+📈 Detection Engineering
+
+I continuously expand this repository with new projects, home lab exercises, and real-world cybersecurity learning experiences.
